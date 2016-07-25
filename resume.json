@@ -1,0 +1,252 @@
+{
+  "basics": {
+    "name": "Philip Posgate",
+    "label": "Software Programmer / Architect",
+    "picture": "",
+    "email": "philip.posgate@gmail.com",
+    "phone": "(905) 730-9848",
+    "website": "philipposgate.github.io",
+    "summary": "I am an accomplished Software Programmer, Technical Architect, and Team Lead, specializing mainly in enterprise development using Java/J2EE, Web, Mobile, and database technologies. I have 22 years of experience in software product development, including requirements definition, business & technical analysis, design, prototyping, agile and iterative development methodologies, testing, deployments, and maintenance. I have excellent communication and people skills, team leadership and project management experience.",
+    "location": {
+      "address": "211 Lime Kiln Rd",
+      "postalCode": "L9G 3A9",
+      "city": "Ancaster",
+      "countryCode": "CANADA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "philipposgate",
+        "url": "http://github.com/philipposgate"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "philipposgate",
+        "url": "http://www.linkedin.com/in/philipposgate"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TD Bank",
+      "position": "Solution Designer",
+      "website": "www.tdcanadatrust.com",
+      "startDate": "2014-12-08",
+      "endDate": "present",
+      "summary": "Mississauga, Ontario - Rapid software design and development of a modern J2EE application, in collaboration with an agile development team, TD enterprise engineers, cloud specialists, and RedHat consultants.",
+      "highlights": [
+        "Technology research and deep analysis of legacy banking applications.",
+        "Fast, iterative prototyping and development.",
+        "Decision centric software architecture, using BRMS and BPMS technologies."
+      ]
+    },
+    {
+      "company": "Orbis Communications Inc",
+      "position": "Java Developer, Designer, Analyst & Team Leader",
+      "website": "www.orbiscommunications.com",
+      "startDate": "2008-09-01",
+      "endDate": "2014-09-01",
+      "summary": "Dundas, Ontario - Senior designer/developer of Orbis J2EE-based products and services. Mentored and managed junior developers to become productive members of the development team. Lots of communication and support to business team and clients. Key technologies that I worked with include: Java, Tomcat, MySQL, MS SQLServer, Oracle, Javascript, JQuery, Jasper Reports, Spring, Hibernate, LDAP, JSON, XML, 2 of 8 HTML, PhoneGap, Ajax, SOAP/REST web services, ecommerce.",
+      "highlights": [
+        "Requirement gathering and business analysis",
+        "Application design and iterative software development",
+        "Software tool development",
+        "Java/J2EE, Spring, Hibernate development",
+        "Testing, debugging, documenting, and deployments",
+        "Application performance profiling and optimization",
+        "Application security auditing"
+      ]
+    },
+    {
+      "company": "Electronic Arts",
+      "position": "J2EE Programmer & Designer",
+      "website": "www.ea.com",
+      "startDate": "2007-05-01",
+      "endDate": "2008-04-01",
+      "summary": "Vancouver, BC - Designed, built, and maintained a B2B software application that integrated elements of EA's enterprise systems with a remote corporate-partner system. More specifically, this J2EE “middle-ware” application integrated with 1) a MySQL database, 2) a “Tibco” JMS messaging system, 3) a remote application via HTTP/REST protocols, and 4) accessed the remote third-party application via HTTP/SOAP protocols (co-developed by myself and third-party development team) over a secure VPN. The business purpose of this project was to marshal, process and proxy EA customer data (i.e. online gamer data) to the remote third-party partner, thus creating the B2B relationship. The application had to support a high volume of real-time incoming data, which meant it had to be designed with high performance and reliability in mind. This application's core architecture relied on Spring, integrating separately designed software modules, built and packaged using the 'Maven' build tool. This greatly simplified and sped up development time. Other key technologies employed were Hibernate (for MySQL database access), JMX MBeans (for remote jconsole management), Adobe Flex (for rich administrative user interface), Axis2 (for SOAP communications), Apache- commons 'httpclient' api (for REST integration), Apache's 'xmlbeans' api (for xml processing) and a variety of other Java api's. This project's development methodology could be best described as a “loosely agile” in nature.",
+      "highlights": [
+        "Requirement gathering and business analysis",
+        "Application Design and Iterative Development Planning",
+        "Software tool development",
+        "Java/J2EE, Spring, and Flex development",
+        "JUnit test development practices",
+        "Maven2 project management",
+        "Testing, Debugging, and Deployments"
+      ]
+    },
+    {
+      "company": "Riptown Media",
+      "position": "J2EE Programmer, Analyst & Team Lead",
+      "website": "www.riptown.com",
+      "startDate": "2005-08-01",
+      "endDate": "2006-12-01",
+      "summary": "Vancouver, BC - Lead a software development team that designed, built, and maintained the online casino at www.bodog.com. This included both integration with third-party casino-system provider (www.realtimegaming.com), as well as the development of an in-house casino system using Flash/Flex and Java/J2EE on a clustered JBoss 4 environment. Extensive use of Maven2 (maven.apache.org) and ‘agile’ development methodologies.",
+      "highlights": [
+        "Requirement gathering and business analysis",
+        "Application Design and Iterative Development Planning",
+        "Software tool development",
+        "Flash8/Flex2.0 development",
+        "Java/J2EE development",
+        "JUnit test-driven development practices",
+        "Maven2 project management",
+        "Testing, Debugging, and Deployments"
+      ]
+    },
+    {
+      "company": "Department of Education and Training",
+      "position": "J2EE Programmer & Analyst",
+      "website": "www.det.nsw.edu.au",
+      "startDate": "2003-10-01",
+      "endDate": "2004-12-01",
+      "summary": "Sydney, Australia - Helped design and build a series of J2EE web applications using Struts, Oracle 9i Application Server, and Oracle 9i Database. The purpose of these applications was to provide access and control of departmental information to internal and external users.",
+      "highlights": [
+        "Requirement gathering and business analysis",
+        "Application Design and Planning",
+        "J2EE development",
+        "Testing, Debugging, and Deployments"
+      ]
+    },
+    {
+      "company": "Radial Software Inc.",
+      "position": "Team Lead, Analyst, Designer & Java Developer",
+      "website": "",
+      "startDate": "2002-06-01",
+      "endDate": "2003-03-01",
+      "summary": "Vancouver, BC - Omega Tours International (OTI). A web application for booking hotel reservations and managing orders. Integration with GTA reservation system and Moneris payment gateway.",
+      "highlights": [
+        "Requirement gathering and business analysis",
+        "Application Design and Planning",
+        "J2EE development",
+        "Testing & Debugging"
+      ]
+    },
+    {
+      "company": "Tantalus Communications Inc.",
+      "position": "Java Developer, Team Lead",
+      "website": "",
+      "startDate": "1999-02-01",
+      "endDate": "2002-05-01",
+      "summary": "Vancouver, BC - Tantalus was a software development consultancy with many clients.  I worked on several projects as business analyst, designer, team lead, Java and Oracle Developer",
+      "highlights": [
+        "Waterfall project methodology",
+        "Java/J2EE development",
+        "Oracle development"
+      ]
+    },
+    {
+      "company": "PowerTrader Software Inc.",
+      "position": "Java & Web Developer",
+      "website": "www.powertrader.com",
+      "startDate": "1995-04-01",
+      "endDate": "1998-02-01",
+      "summary": "Vancouver, BC - Portal sites delivering dynamic financial information to the trader/broker community. Software Support Technician – PowerTrader Pro Q & A for software development team. PowerTrader Pro was a desktop application for stock traders. It read a real-time “datafeed” of stock quotes and stored them in a database where they could be stored for real-time retrieval and analysis.",
+      "highlights": [
+        "Site Registration and Maintenance",
+        "HTML developer",
+        "Content Writer",
+        "Graphic Designer",
+        "ColdFusion developer, WebObjects developer",
+        "Java applet developer – threaded, realtime stock tickers",
+        "Supported users of PowerTrader Pro – telephone and ‘on site’",
+        "A Q&A tester for the development team"
+      ]
+    },
+    {
+      "company": "Delrina Technology Inc.",
+      "position": "Software Support Technician",
+      "website": "",
+      "startDate": "1993-06-01",
+      "endDate": "1995-02-01",
+      "summary": "Toronto, Ontario - WinFax Pro software support technician",
+      "highlights": [
+        "Software Support Technician – WinFax Pro",
+        "Helped WinFax users with technical problems over the telephone and email"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sheridan College",
+      "area": "Computer Programming & Analysis",
+      "studyType": "Computer Science Degree",
+      "startDate": "1990",
+      "endDate": "1993",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Advanced JBoss Training",
+      "area": "RedHat Technology",
+      "studyType": "Certificate",
+      "startDate": "2006",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages/Programming",
+      "level": "",
+      "keywords": [
+        "Java, J2EE, SQL Server, XML, JSON",
+        "HTML, CSS, Javascript, NodeJS, MeteorJS",
+        "Maven, Grunt, Bower, Git, SVN, CVS",
+        "REST/SOAP web services, Service Oriented Architecture",
+        "Eclipse, Jasper Reports, SSH"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "",
+      "keywords": [
+        "Linux, Unix (Solaris/HP-UX), Windows, Mac OS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "SQL Server, MySQL, Oracle, DB2, Postres"
+      ]
+    },
+    {
+      "name": "Theory",
+      "level": "",
+      "keywords": [
+        "Agile, Iterative, Waterfall, Cowboy development methodologies",
+        "Decision Centric software architectures",
+        "Enterprise software architectures",
+        "Test driven development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Snowboarding",
+        "Mountain Biking"
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": [
+        "Rules Engines, MetorJS",
+        "Blockchain, Ethereum",
+        "NASA, SpaceX, Astronomy"
+      ]
+    }
+  ],
+  "references": []
+}
